@@ -1,14 +1,14 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "releaseDate": "2026-07-23",
   "changelog": {
-    "pl": "- Test systemu aktualizacji OTA\n- Panel Aktualizacje w Ustawieniach",
-    "en": "- OTA update system test\n- Updates panel in Settings"
+    "pl": "- Naprawiony sanity-check paczki (ELECTRON_RUN_AS_NODE)\n- Pelny test OTA",
+    "en": "- Fixed package sanity-check\n- Full OTA test"
   },
-  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v1.0.1/update-1.0.1.tar.gz",
-  "packageSize": 5086629,
-  "sha256": "d2f03d9bcae34aae1ca32753179b28f09f16278bf16a86063f47e8e85e3b3df7",
-  "signature": "TTcfejUDVBhgrHf6bLyhJdY7YC+rLy2OIBLeWQyCtevc/0urc0ye2Nlv9k0y0tCLd35vo4pid0O3ROnuIkudCg==",
+  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v1.0.2/update-1.0.2.tar.gz",
+  "packageSize": 5086741,
+  "sha256": "6a0880da4f845abfe23a1b2cacbc64a9cb9897584c6be1e68a5c4712d1cabf9a",
+  "signature": "vMKggH23N3jhKsu8MUrTK44Xe8ZzgO0SddaI9Y3YBED8pOsgeiVjLry3ONDobQYTNbFIJ9LubdZtR5z2b42gAw==",
   "requiresNpmInstall": false,
   "minAppVersion": "1.0.0"
 }
