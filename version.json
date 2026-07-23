@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "releaseDate": "2026-07-23",
+  "changelog": {
+    "pl": "Wersja bazowa.",
+    "en": "Base version."
+  },
+  "packageUrl": "",
+  "packageSize": 0,
+  "sha256": "",
+  "signature": "",
+  "requiresNpmInstall": false,
+  "minAppVersion": "1.0.0"
+}
