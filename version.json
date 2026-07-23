@@ -1,14 +1,14 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "releaseDate": "2026-07-23",
   "changelog": {
-    "pl": "Wersja bazowa.",
-    "en": "Base version."
+    "pl": "- Test systemu aktualizacji OTA\n- Panel Aktualizacje w Ustawieniach",
+    "en": "- OTA update system test\n- Updates panel in Settings"
   },
-  "packageUrl": "",
-  "packageSize": 0,
-  "sha256": "",
-  "signature": "",
+  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v1.0.1/update-1.0.1.tar.gz",
+  "packageSize": 5086629,
+  "sha256": "d2f03d9bcae34aae1ca32753179b28f09f16278bf16a86063f47e8e85e3b3df7",
+  "signature": "TTcfejUDVBhgrHf6bLyhJdY7YC+rLy2OIBLeWQyCtevc/0urc0ye2Nlv9k0y0tCLd35vo4pid0O3ROnuIkudCg==",
   "requiresNpmInstall": false,
   "minAppVersion": "1.0.0"
 }
