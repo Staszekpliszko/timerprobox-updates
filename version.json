@@ -1,14 +1,14 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "releaseDate": "2026-07-24",
   "changelog": {
-    "pl": "Zegar (aktualny czas): nowa pozycja 'Góra - środek' oraz rozmiar 'Własny' z suwakiem do 200 px (obok Mały/Średni/Duży).",
-    "en": "Clock (current time): new 'Top - center' position and a 'Custom' size with a slider up to 200 px (alongside Small/Medium/Large)."
+    "pl": "Temat konferencji: rozmiar czcionki mozna teraz ustawic az do 200 px (wczesniej maks. 48) - wieksze, czytelne naglowki.",
+    "en": "Conference title: font size can now be set up to 200 px (previously max 48) - larger, more readable headings."
   },
-  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v1.0.5/update-1.0.5.tar.gz",
-  "packageSize": 5088204,
-  "sha256": "5b78f2a77fdd78d83758a7c7358b98242ace59d82cd793a65ea3718f6418cb10",
-  "signature": "ZPOX0I0e2C1buVfhJ/DK5uCi86d9vU8ogCSMF8fkGAMurFpmL3p0INNFijsSRzNq30RDX7YCKu3LaZqjJ5BYAg==",
+  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v1.0.6/update-1.0.6.tar.gz",
+  "packageSize": 5088247,
+  "sha256": "b6da7751e081a8992ae802bd29fdf9148b540e5466311d3ab4ea0cfcfa7395b0",
+  "signature": "slhnAEh4JEpL2zeo8TTsm9mVwXWY5LWPZC7pR9R5T4Htp6XqCjzvqY+MS7ycAbPzhntR9BNGv7blnvrlLWmFDQ==",
   "requiresNpmInstall": false,
   "minAppVersion": "1.0.0"
 }
