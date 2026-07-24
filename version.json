@@ -1,14 +1,14 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "releaseDate": "2026-07-24",
   "changelog": {
-    "pl": "Poprawka paska postepu: po recznym dodaniu lub odjeciu czasu progres jest teraz liczony zawsze od 0 do 100% wzgledem nowej, pelnej puli czasu (wczesniej pasek potrafil stac w miejscu).",
-    "en": "Progress bar fix: after manually adding or subtracting time, progress is now always calculated 0-100% relative to the new total duration (previously the bar could freeze)."
+    "pl": "Zegar (aktualny czas): nowa pozycja 'Góra - środek' oraz rozmiar 'Własny' z suwakiem do 200 px (obok Mały/Średni/Duży).",
+    "en": "Clock (current time): new 'Top - center' position and a 'Custom' size with a slider up to 200 px (alongside Small/Medium/Large)."
   },
-  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v1.0.4/update-1.0.4.tar.gz",
-  "packageSize": 5087713,
-  "sha256": "dc5be633eaa71d5322f8294cb585d09949a683d86e9bcdcd162fc1db90d6644b",
-  "signature": "N//NOMZ7/IYUnhlhfETI9hQalKEQPq5IuD3NIQZcgREt1WRrKiCrXeH4UeOnilCuKAxpgoN0gzPtK5d/eAuNDg==",
+  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v1.0.5/update-1.0.5.tar.gz",
+  "packageSize": 5088204,
+  "sha256": "5b78f2a77fdd78d83758a7c7358b98242ace59d82cd793a65ea3718f6418cb10",
+  "signature": "ZPOX0I0e2C1buVfhJ/DK5uCi86d9vU8ogCSMF8fkGAMurFpmL3p0INNFijsSRzNq30RDX7YCKu3LaZqjJ5BYAg==",
   "requiresNpmInstall": false,
   "minAppVersion": "1.0.0"
 }
