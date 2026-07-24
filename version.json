@@ -1,14 +1,14 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "releaseDate": "2026-07-24",
   "changelog": {
-    "pl": "Podglad wyswietlacza w programie: naprawiony - przy duzych czcionkach (np. temat 200px) juz sie nie rozwala, tylko pokazuje wierna, pomniejszona miniature realnego ekranu.",
-    "en": "In-app display preview: fixed - with large font sizes (e.g. 200px title) it no longer breaks, showing a faithful scaled-down miniature of the real screen."
+    "pl": "Podglad wyswietlacza: naprawiony uklad (timer/pasek na wlasciwych miejscach), grubszy pasek postepu reagujacy na ustawienia, oraz powiekszanie podgladu na pelny ekran jednym przyciskiem. Ekran prelegenta bez zmian.",
+    "en": "Display preview: fixed layout (timer/bar correctly placed), thicker progress bar reacting to settings, and one-button fullscreen zoom of the preview. Presenter screen unchanged."
   },
-  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v1.0.7/update-1.0.7.tar.gz",
-  "packageSize": 5088422,
-  "sha256": "66da9da1646f75f7e86636a4252c11ce24e259bad0ef31d538bae2fa65da5eef",
-  "signature": "mJNEBOwaxqJt4d0t9dyPh34EJAVgGWMB0bWQ5oWDRi2lw4qGMLzze/G/GD0fqXM3/CJNleB8LZxCCHtE6z9VDA==",
+  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v1.0.8/update-1.0.8.tar.gz",
+  "packageSize": 5087992,
+  "sha256": "11f4865ecdffb3ff56ebfe1a07662c4564bd5ec6c49d6e1c50c74e26ac8d8a85",
+  "signature": "CceMipt1NBpvlUp7RppuDrAHdvT4KrlNZgsPDgsjaC1Qi7BJN5/NteLGQwoAC+V9e50U1MthVWfDFGOVcShoDQ==",
   "requiresNpmInstall": false,
   "minAppVersion": "1.0.0"
 }
