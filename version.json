@@ -1,14 +1,14 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "releaseDate": "2026-07-24",
   "changelog": {
-    "pl": "Temat konferencji: rozmiar czcionki mozna teraz ustawic az do 200 px (wczesniej maks. 48) - wieksze, czytelne naglowki.",
-    "en": "Conference title: font size can now be set up to 200 px (previously max 48) - larger, more readable headings."
+    "pl": "Podglad wyswietlacza w programie: naprawiony - przy duzych czcionkach (np. temat 200px) juz sie nie rozwala, tylko pokazuje wierna, pomniejszona miniature realnego ekranu.",
+    "en": "In-app display preview: fixed - with large font sizes (e.g. 200px title) it no longer breaks, showing a faithful scaled-down miniature of the real screen."
   },
-  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v1.0.6/update-1.0.6.tar.gz",
-  "packageSize": 5088247,
-  "sha256": "b6da7751e081a8992ae802bd29fdf9148b540e5466311d3ab4ea0cfcfa7395b0",
-  "signature": "slhnAEh4JEpL2zeo8TTsm9mVwXWY5LWPZC7pR9R5T4Htp6XqCjzvqY+MS7ycAbPzhntR9BNGv7blnvrlLWmFDQ==",
+  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v1.0.7/update-1.0.7.tar.gz",
+  "packageSize": 5088422,
+  "sha256": "66da9da1646f75f7e86636a4252c11ce24e259bad0ef31d538bae2fa65da5eef",
+  "signature": "mJNEBOwaxqJt4d0t9dyPh34EJAVgGWMB0bWQ5oWDRi2lw4qGMLzze/G/GD0fqXM3/CJNleB8LZxCCHtE6z9VDA==",
   "requiresNpmInstall": false,
   "minAppVersion": "1.0.0"
 }
