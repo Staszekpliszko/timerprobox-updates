@@ -1,14 +1,14 @@
 {
-  "version": "1.0.3",
-  "releaseDate": "2026-07-23",
+  "version": "1.0.4",
+  "releaseDate": "2026-07-24",
   "changelog": {
-    "pl": "- Niezawodny restart po aktualizacji (twardy fallback)\n- Test auto-restartu",
-    "en": "- Reliable post-update restart\n- Auto-restart test"
+    "pl": "Poprawka paska postepu: po recznym dodaniu lub odjeciu czasu progres jest teraz liczony zawsze od 0 do 100% wzgledem nowej, pelnej puli czasu (wczesniej pasek potrafil stac w miejscu).",
+    "en": "Progress bar fix: after manually adding or subtracting time, progress is now always calculated 0-100% relative to the new total duration (previously the bar could freeze)."
   },
-  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v1.0.3/update-1.0.3.tar.gz",
-  "packageSize": 5087026,
-  "sha256": "59f24c535fc1adfddf653689379295624d1721daa0fd048095613fa60c4e635c",
-  "signature": "1Rm/ExVuf7pJ9pbIXRezvsK0DpbnmSH5cWd/cNw2EbIw171iK7waseREZPnmP+37I2PEof62nglvimUNx+YTDA==",
+  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v1.0.4/update-1.0.4.tar.gz",
+  "packageSize": 5087713,
+  "sha256": "dc5be633eaa71d5322f8294cb585d09949a683d86e9bcdcd162fc1db90d6644b",
+  "signature": "N//NOMZ7/IYUnhlhfETI9hQalKEQPq5IuD3NIQZcgREt1WRrKiCrXeH4UeOnilCuKAxpgoN0gzPtK5d/eAuNDg==",
   "requiresNpmInstall": false,
   "minAppVersion": "1.0.0"
 }
