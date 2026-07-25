@@ -1,14 +1,14 @@
 {
-  "version": "1.0.10",
+  "version": "1.0.11",
   "releaseDate": "2026-07-25",
   "changelog": {
-    "pl": "Aktualizacja do wersji 1.0.10.",
-    "en": "Update to version 1.0.10."
+    "pl": "Aktualizacja do wersji 1.0.11.",
+    "en": "Update to version 1.0.11."
   },
-  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v1.0.10/update-1.0.10.tar.gz",
-  "packageSize": 5074549,
-  "sha256": "a9dd75faf9e72982f900ae1bb40de871817e86a792649bdc6afa193923311270",
-  "signature": "4jSLK0qkJbcfGE3HyS0nMpxCtdu4+wtqpDFkqaRnf/DbAPsFqKhIGkkkxy4idILWvh1/3cO2rN88AEMl4Ch0CA==",
+  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v1.0.11/update-1.0.11.tar.gz",
+  "packageSize": 5075519,
+  "sha256": "3875334a1a14406e059db564d02b54e48cb30401ac744eeb1d22c8c9c09818ed",
+  "signature": "fHw2+1x2If6uxpBqnSVu6V7FtitLRNhTltDsUKNc+1BLtDPQlEJnuXuaXdCox9stSGfqmd+4k+YnH0QXAgm+BA==",
   "requiresNpmInstall": false,
   "minAppVersion": "1.0.0"
 }
