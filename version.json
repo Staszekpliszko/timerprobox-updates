@@ -1,14 +1,14 @@
 {
-  "version": "1.0.11",
-  "releaseDate": "2026-07-25",
+  "version": "1.0.12",
+  "releaseDate": "2026-07-26",
   "changelog": {
-    "pl": "Aktualizacja do wersji 1.0.11.",
-    "en": "Update to version 1.0.11."
+    "pl": "Panel w przegladarce mowi teraz tym samym jezykiem co urzadzenie - polski, angielski, niemiecki, hiszpanski i francuski. W ustawieniach jezyka zamiast ramek z literami widac prawdziwe flagi.",
+    "en": "The browser panel now speaks the same language as the device - Polish, English, German, Spanish and French. The language settings show real flags instead of letter placeholders."
   },
-  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v1.0.11/update-1.0.11.tar.gz",
-  "packageSize": 5075519,
-  "sha256": "3875334a1a14406e059db564d02b54e48cb30401ac744eeb1d22c8c9c09818ed",
-  "signature": "fHw2+1x2If6uxpBqnSVu6V7FtitLRNhTltDsUKNc+1BLtDPQlEJnuXuaXdCox9stSGfqmd+4k+YnH0QXAgm+BA==",
+  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v1.0.12/update-1.0.12.tar.gz",
+  "packageSize": 5077401,
+  "sha256": "5010d3939ccd458e6ec5589fc04293e4e4e638591eefbaab46fdc7d468af4c92",
+  "signature": "bA1GJ75tQNgIsIUdmdWIhFzMjMOTPzqA7DHI6t8eGsm90xZ5FpibuRjyIEAVCGvVukHKHb4as+HcSBsqqpeuDw==",
   "requiresNpmInstall": false,
   "minAppVersion": "1.0.0"
 }
