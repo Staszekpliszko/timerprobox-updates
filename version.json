@@ -1,14 +1,14 @@
 {
-  "version": "1.0.13",
+  "version": "1.0.14",
   "releaseDate": "2026-07-27",
   "changelog": {
-    "pl": "Kod PIN do sterowania zdalnego. Panel w przegladarce i sterowanie z innego komputera wymagaja teraz kodu, ktory ustawiasz na urzadzeniu w Ustawieniach - Security. Ekran dotykowy, wyswietlacz prelegenta, Stream Deck po USB oraz widoki dla vMix i OBS dzialaja bez zmian. UWAGA: Bitfocus Companion i wtyczki sterujace przez siec beda wymagac podania kodu albo wlaczenia furtki w ustawieniach. Naprawiono tez klawiature ekranowa - przy przechodzeniu miedzy polami tekst trafial do poprzedniego pola (edycja przyciskow Stream Deck, formularz prelegenta).",
-    "en": "PIN code for remote control. The browser panel and control from another computer now require a code that you set on the device under Settings - Security. The touchscreen, speaker display, USB-connected Stream Deck and the views for vMix and OBS work unchanged. NOTE: Bitfocus Companion and plugins controlling over the network will need the code or the bypass switch in settings. Also fixed the on-screen keyboard - when moving between fields the text went into the previous field (Stream Deck button editor, speaker form)."
+    "pl": "Liczenie w gore. Ustawiasz czas jak dotad, a strzalkami obok pola wybierasz, czy ekran ma pokazywac ile czasu zostalo, czy ile minelo. To ten sam timer pokazany od drugiej strony - kolory, ostrzezenia i dzwieki dzialaja tak samo w obu kierunkach. Kierunek mozna tez przypisac do klawisza Stream Decka. Nowe ustawienie w Wyswietlaczu: Zatrzymaj po dojsciu do celu - domyslnie wylaczone, wiec nic sie nie zmienia dopoki go nie wlaczysz. Poprawiono tez uklad dolnego wiersza: we wszystkich jezykach poza angielskim przyciski szybkiego wyboru czasu spadaly do drugiej linii.",
+    "en": "Count-up timing. You set the time as before and the arrows next to the field choose whether the screen shows time remaining or time elapsed. It is the same timer shown from the other side - colours, warnings and sounds behave identically in both directions. The direction can also be assigned to a Stream Deck key. New display setting: Stop when the target is reached - off by default, so nothing changes until you turn it on. Also fixed the bottom row layout: in every language except English the quick time buttons dropped to a second line."
   },
-  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v1.0.13/update-1.0.13.tar.gz",
-  "packageSize": 5123759,
-  "sha256": "200b95252e5b8d1c68565519742924775cda8c2b364358e88dd4410c330a0baa",
-  "signature": "u5y70qva679kloqnWEOVR950jtTypHvbVrzFgv2VIp0L6gG94/rc+LEbcnYMiIv3OvgC4OVoBgUG6RdYnaYCAw==",
+  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v1.0.14/update-1.0.14.tar.gz",
+  "packageSize": 5124178,
+  "sha256": "3e83e84e84f2846253624a3076ebb68fedc7f4d01baadf8bb004bbf8cae8e536",
+  "signature": "xRkyn0C+0dvNhPjBW/5BO3UnlSp/VRX436m5ErjE8sLPHyego7pvI7L0PYpVSWCxuSHL575a5aqZeMJutmBMCA==",
   "requiresNpmInstall": false,
   "minAppVersion": "1.0.0"
 }
