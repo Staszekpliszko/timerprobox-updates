@@ -1,14 +1,14 @@
 {
-  "version": "1.0.12",
-  "releaseDate": "2026-07-26",
+  "version": "1.0.13",
+  "releaseDate": "2026-07-27",
   "changelog": {
-    "pl": "Panel w przegladarce mowi teraz tym samym jezykiem co urzadzenie - polski, angielski, niemiecki, hiszpanski i francuski. W ustawieniach jezyka zamiast ramek z literami widac prawdziwe flagi.",
-    "en": "The browser panel now speaks the same language as the device - Polish, English, German, Spanish and French. The language settings show real flags instead of letter placeholders."
+    "pl": "Kod PIN do sterowania zdalnego. Panel w przegladarce i sterowanie z innego komputera wymagaja teraz kodu, ktory ustawiasz na urzadzeniu w Ustawieniach - Security. Ekran dotykowy, wyswietlacz prelegenta, Stream Deck po USB oraz widoki dla vMix i OBS dzialaja bez zmian. UWAGA: Bitfocus Companion i wtyczki sterujace przez siec beda wymagac podania kodu albo wlaczenia furtki w ustawieniach. Naprawiono tez klawiature ekranowa - przy przechodzeniu miedzy polami tekst trafial do poprzedniego pola (edycja przyciskow Stream Deck, formularz prelegenta).",
+    "en": "PIN code for remote control. The browser panel and control from another computer now require a code that you set on the device under Settings - Security. The touchscreen, speaker display, USB-connected Stream Deck and the views for vMix and OBS work unchanged. NOTE: Bitfocus Companion and plugins controlling over the network will need the code or the bypass switch in settings. Also fixed the on-screen keyboard - when moving between fields the text went into the previous field (Stream Deck button editor, speaker form)."
   },
-  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v1.0.12/update-1.0.12.tar.gz",
-  "packageSize": 5077401,
-  "sha256": "5010d3939ccd458e6ec5589fc04293e4e4e638591eefbaab46fdc7d468af4c92",
-  "signature": "bA1GJ75tQNgIsIUdmdWIhFzMjMOTPzqA7DHI6t8eGsm90xZ5FpibuRjyIEAVCGvVukHKHb4as+HcSBsqqpeuDw==",
+  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v1.0.13/update-1.0.13.tar.gz",
+  "packageSize": 5123759,
+  "sha256": "200b95252e5b8d1c68565519742924775cda8c2b364358e88dd4410c330a0baa",
+  "signature": "u5y70qva679kloqnWEOVR950jtTypHvbVrzFgv2VIp0L6gG94/rc+LEbcnYMiIv3OvgC4OVoBgUG6RdYnaYCAw==",
   "requiresNpmInstall": false,
   "minAppVersion": "1.0.0"
 }
