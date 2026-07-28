@@ -1,14 +1,14 @@
 {
-  "version": "1.0.15",
+  "version": "1.0.16",
   "releaseDate": "2026-07-28",
   "changelog": {
-    "pl": "Program wydarzenia. Lista wystapien dostaje godziny startu i staje sie osia czasu konferencji. Prawa kolumna ekranu glownego pokazuje kto mowi teraz i do ktorej godziny, kto jest nastepny oraz o ile jestescie za planem albo przed nim. Program NIGDY nie startuje ani nie zatrzymuje biegnacego timera - automatyczne przejscie dziala tylko przy zatrzymanym timerze, jest domyslnie wylaczone, a START, PAUZA i RESET zawsze maja pierwszenstwo. Nowa zakladka Ustawienia - Program z trzema wyborami. Import rozpoznaje kolumne godziny; agendy bez niej wczytuja sie jak dotad, a bez wczytanego programu ekran glowny wyglada bez zmian. Przycisk w oknie programu nazywa sie teraz Wczytaj czas, bo tylko ladowal czas i nie uruchamial odliczania. Naprawiono tez klawiature ekranowa w ustawieniach presetow - bez niej nie dalo sie ich edytowac.",
-    "en": "Event program. The list of talks gains start times and becomes the timeline of your conference. The right-hand column of the main screen shows who is speaking now and until when, who is next, and how far behind or ahead of plan you are. The program NEVER starts or stops a running timer - automatic advance works only while the timer is stopped, is off by default, and START, PAUSE and RESET always take priority. New Settings - Program tab with three choices. Import recognises a start-time column; agendas without one load exactly as before, and with no program loaded the main screen looks unchanged. The button in the program window is now called Load time, because it only loaded the time without starting the countdown. Also fixed the on-screen keyboard in preset settings - without it presets could not be edited at all."
+    "pl": "Poprawka do programu wydarzenia. Zmiany w Ustawieniach - Program dzialaly dopiero po restarcie urzadzenia: ustawienie zapisywalo sie poprawnie, ale program pracowal dalej na wartosciach sprzed zmiany. Najbardziej bylo to widac przy automatycznym przejsciu - po ustawieniu 'zaladuj nastepnego i wystartuj' kolejny punkt wczytywal sie, ale odliczanie nie ruszalo. Teraz ustawienia dzialaja od razu po zapisaniu. Jesli aktualizujesz z wersji starszej niz 1.0.15, dostajesz przy okazji caly program wydarzenia: godziny startu, panel z opoznieniem i przycisk nastepnego prelegenta.",
+    "en": "Fix for the event program. Changes in Settings - Program only took effect after restarting the device: the setting was saved correctly, but the app kept using the values from before the change. It showed up most clearly with automatic advance - with 'load the next one and start' selected, the next item was loaded but the countdown did not begin. Settings now apply immediately. If you are updating from a version older than 1.0.15, you also get the whole event program: start times, the panel with the delay indicator and the next-speaker button."
   },
-  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v1.0.15/update-1.0.15.tar.gz",
-  "packageSize": 5132922,
-  "sha256": "a7aac0cf5297783c3163e57139c5f28263b8ddd591795dbe8585d8da81526a2d",
-  "signature": "QDTKpY/cHvHQb0DI1xi+97AprUuPV/QDaPPds9Q3ogKTG7ePWBMG4iPS7nid9gdtnE+somipDYo5unbFGDUCAg==",
+  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v1.0.16/update-1.0.16.tar.gz",
+  "packageSize": 5132990,
+  "sha256": "84dff56b5f7a88e28a9126d44ef762f53b87beb97aa9585ef4e7d899ebf74262",
+  "signature": "Bg+kNdOGcIKxuPriTeCaHhpGfWuhG0E4ZVzvY3EYqPbFzjiqH/D8opjWg3/kHtNAnnUARAmTBrfJylVF7myBAg==",
   "requiresNpmInstall": false,
   "minAppVersion": "1.0.0"
 }
