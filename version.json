@@ -1,14 +1,14 @@
 {
-  "version": "1.0.16",
+  "version": "1.0.17",
   "releaseDate": "2026-07-28",
   "changelog": {
-    "pl": "Poprawka do programu wydarzenia. Zmiany w Ustawieniach - Program dzialaly dopiero po restarcie urzadzenia: ustawienie zapisywalo sie poprawnie, ale program pracowal dalej na wartosciach sprzed zmiany. Najbardziej bylo to widac przy automatycznym przejsciu - po ustawieniu 'zaladuj nastepnego i wystartuj' kolejny punkt wczytywal sie, ale odliczanie nie ruszalo. Teraz ustawienia dzialaja od razu po zapisaniu. Jesli aktualizujesz z wersji starszej niz 1.0.15, dostajesz przy okazji caly program wydarzenia: godziny startu, panel z opoznieniem i przycisk nastepnego prelegenta.",
-    "en": "Fix for the event program. Changes in Settings - Program only took effect after restarting the device: the setting was saved correctly, but the app kept using the values from before the change. It showed up most clearly with automatic advance - with 'load the next one and start' selected, the next item was loaded but the countdown did not begin. Settings now apply immediately. If you are updating from a version older than 1.0.15, you also get the whole event program: start times, the panel with the delay indicator and the next-speaker button."
+    "pl": "Poprawka programu wydarzenia. Po zakonczeniu ostatniego punktu program potrafil wczytac pierwszy wyklad od nowa i wystartowac wydarzenie od poczatku. To samo zdarzalo sie po ponownym imporcie agendy, po skasowaniu biezacej pozycji z listy oraz gdy timer dochodzil do zera na czasie ustawionym recznie lub presetem - program przejmowal wtedy licznik. Teraz automat rusza timer wylacznie wtedy, gdy wie, w ktorym miejscu programu stoi; w kazdej innej sytuacji nie robi nic i zostawia licznik tam, gdzie jest. Dodatkowo po wczytaniu ostatniego punktu panel pokazuje pomaranczowa ramke KONIEC PROGRAMU - widac to od razu, a nie dopiero po dojsciu do zera. Przycisk nastepnego prelegenta dziala bez zmian.",
+    "en": "Event program fix. After the last item finished, the program could load the first talk again and restart the event from the beginning. The same happened after re-importing an agenda, after deleting the current item from the list, and whenever the timer reached zero on a time set manually or from a preset - the program would take over the clock. Automatic advance now moves the timer only when it knows where in the program it stands; in every other case it does nothing and leaves the clock where it is. In addition, once the last item is loaded the panel shows an orange END OF PROGRAM frame - visible straight away, not only after reaching zero. The next-speaker button is unchanged."
   },
-  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v1.0.16/update-1.0.16.tar.gz",
-  "packageSize": 5132990,
-  "sha256": "84dff56b5f7a88e28a9126d44ef762f53b87beb97aa9585ef4e7d899ebf74262",
-  "signature": "Bg+kNdOGcIKxuPriTeCaHhpGfWuhG0E4ZVzvY3EYqPbFzjiqH/D8opjWg3/kHtNAnnUARAmTBrfJylVF7myBAg==",
+  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v1.0.17/update-1.0.17.tar.gz",
+  "packageSize": 5132743,
+  "sha256": "5d90f775e257ee1737d79dc039ae0869de7343729838ebdbd57e3617cdf6e1d3",
+  "signature": "kKXzlC2nLFGxpHqo4peGSSjNnaypCuGargsyoutO2WNUQTeNb0NR+rasEEadmIEYi4rBbdCLKYprl8CmyDLPCw==",
   "requiresNpmInstall": false,
   "minAppVersion": "1.0.0"
 }
