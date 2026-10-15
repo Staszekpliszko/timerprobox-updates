@@ -1,14 +1,14 @@
 {
-  "version": "1.0.31",
+  "version": "1.0.32",
   "releaseDate": "2026-10-15",
   "changelog": {
-    "pl": "Nowy szablon Broadcast „Flip”: mechaniczny zegar z klapkami — układ pełny (status, czas minął, czas trwania, zegar, czas do końca, komunikat, pasek) albo tylko czas, tylko zegar lub automatycznie; progi ostrzeżeń, własny komunikat, kolory. Działa bez internetu, w 5 językach. Stream Deck: klawisz układu Flip.",
-    "en": "New Broadcast template \"Flip\": mechanical split-flap clock — full layout (status, elapsed, duration, clock, time remaining, message, bar) or time only, clock only or automatic; warning thresholds, custom message, colours. Works offline, in 5 languages. Stream Deck: Flip layout key."
+    "pl": "Nowy szablon Broadcast „ClasicTime”: klasyczny zegar analogowy z odliczaniem czasu programu — układ pełny, sam zegar, samo odliczanie albo automatycznie; każdy element do wyłączenia, sekundnik płynny lub skokowy, 10 kolorów. Działa bez internetu, w 5 językach. Stream Deck: klawisz układu ClasicTime.",
+    "en": "New Broadcast template \"ClasicTime\": classic analogue clock with show countdown — full layout, clock only, countdown only or automatic; every element can be hidden, smooth or ticking second hand, 10 colours. Works offline, in 5 languages. Stream Deck: ClasicTime layout key."
   },
-  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v1.0.31/update-1.0.31.tar.gz",
-  "packageSize": 5815325,
-  "sha256": "bd19e0506f14c37aafe4fb930cb0cbd99a1fe0a41b4d03506d64f65d9b99d56e",
-  "signature": "X0fpfokpYonLMg9E0VbXmkLIMwJ673w7XBbT+Mww4ot64VLPa2AGOOcUr9IqgfJ+BIZt6x2DVgu07rDMSSnhAA==",
+  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v1.0.32/update-1.0.32.tar.gz",
+  "packageSize": 6288375,
+  "sha256": "2597b5c2a19a447e421cbd8bd71d22354cd84f7eea8b47d561a9441ead56eb75",
+  "signature": "wgcNGdYAaZZP5Nztm8IOHkN3gy4dPOVRXk9/7+E9eCx2aNEyvl3WqFEZ8jNiIXzGkAVhjfsk4MGAM4FmyereCA==",
   "requiresNpmInstall": false,
   "minAppVersion": "1.0.0"
 }
