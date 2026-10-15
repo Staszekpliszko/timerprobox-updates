@@ -1,14 +1,14 @@
 {
-  "version": "1.0.29",
+  "version": "1.0.30",
   "releaseDate": "2026-10-15",
   "changelog": {
-    "pl": "Poprawka Broadcast: wskaźnik kołowy i pasek postępu (Template 2 i Studio) od razu pokazują aktualny postęp programu — zerują się po Resecie i przeliczają po zmianie czasu programu, także przy OFF AIR.",
-    "en": "Broadcast fix: the circular gauge and progress bar (Template 2 and Studio) always show the current show progress — they reset after Reset and recalculate when the show duration changes, also while OFF AIR."
+    "pl": "Nowy szablon Broadcast „Ring LED”: okrągły zegar studyjny z pierścieniem 60 diod — przy OFF AIR godzina i data, przy ON AIR czas programu z godziną; kolory do ustawienia, domyślnie czerwień. W panelu Broadcast szablon wybiera się teraz przyciskiem „Wybierz szablon” z miniaturami. Stream Deck: klawisz trybu Ring.",
+    "en": "New Broadcast template \"Ring LED\": round studio clock with a 60-LED ring — time and date when OFF AIR, show time with the clock when ON AIR; colours adjustable, red by default. The Broadcast panel now picks templates via \"Choose template\" with thumbnails. Stream Deck: Ring mode key."
   },
-  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v1.0.29/update-1.0.29.tar.gz",
-  "packageSize": 5418931,
-  "sha256": "998bf5ecc85c47aeb239c8967dc4a6c21d247a68134b06727fd6da4204bbd9b2",
-  "signature": "V6faFAocOCD0QBS2fMuW2qffa6XtKtsQVJiGve7fGDyr1p0rHJ/XFm81D1nJeI793rccKQe4vKHojMzoWGx7Aw==",
+  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v1.0.30/update-1.0.30.tar.gz",
+  "packageSize": 5614164,
+  "sha256": "65a39224937a7510fc4b933e88f969508ebded683c46376d47be1b48da1d2918",
+  "signature": "I50LvGvgJhg71Nd62FPZqMvtq6BFS82TV6SQQXbcC/mA6gTEr8G2vZgs/UVFu6z3NVhqtZL6W7maQFlqo9yXBw==",
   "requiresNpmInstall": false,
   "minAppVersion": "1.0.0"
 }
