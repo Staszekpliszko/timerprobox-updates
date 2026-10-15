@@ -1,14 +1,14 @@
 {
-  "version": "1.0.33",
+  "version": "1.0.34",
   "releaseDate": "2026-10-15",
   "changelog": {
-    "pl": "Ring LED: kolor kropek godzin (domyślnie jak diody) oraz logo PNG nad czasem - wybór z urządzenia, rozmiar Małe/Średnie/Duże, włącznik Pokaż logo. Walidacja kolorów Ring.",
-    "en": "Ring LED: hour-dot colour (same as LEDs by default) and a PNG logo above the time - chosen from the device, Small/Medium/Large, Show logo switch. Ring colours validated."
+    "pl": "Ring LED: logo przesunięte wyżej - tuż pod kropką 12, z odstępem od czasu.",
+    "en": "Ring LED: logo moved up - right under the 12 dot, clear of the time."
   },
-  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v1.0.33/update-1.0.33.tar.gz",
-  "packageSize": 6294773,
-  "sha256": "d7534a24b12703aee1c037b9c82e6f5407e1ec6302e6566c8d460c4dd690ad5c",
-  "signature": "sDVD4nEJQZwYg34ls9laKAHhHUDWQkSpehDhk1sw58yZz4yofLNj+SNZ+LpAwCtxlo1R1P1sRfRN/L6031F+Dg==",
+  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v1.0.34/update-1.0.34.tar.gz",
+  "packageSize": 6294793,
+  "sha256": "ae159a8e6088b286fb379a29cd87d648e826180c75661e3d85d4a49d6eb28c5b",
+  "signature": "1lucvptfbpuoR7ZCaEmi43O9w2MwXmvwvET1PNEsOE72dey5UH24yY8YNL7a/1iMcTfJs35aNj5w18eoxs4RDg==",
   "requiresNpmInstall": false,
   "minAppVersion": "1.0.0"
 }
