@@ -1,14 +1,14 @@
 {
-  "version": "1.0.23",
-  "releaseDate": "2026-07-31",
+  "version": "1.0.25",
+  "releaseDate": "2026-10-15",
   "changelog": {
-    "pl": "Przenoszenie profilu na pendrive wreszcie widac. Przy kazdym profilu sa teraz dwa przyciski: Wczytaj przestawia urzadzenie na to zlecenie, a Na pendrive zapisuje profil jako plik .tprobox i wynosi go poza pudelko. Wczesniej ta druga mozliwosc siedziala schowana pod trzema kropkami i praktycznie nie dalo sie jej znalezc - mimo ze dziala od wersji 1.0.20. Pod trzema kropkami zostaly rzeczy robione rzadko: zmiana nazwy, nadpisanie profilu biezacymi ustawieniami i usuniecie. Zmienily sie tez dwie mylace nazwy. Zapisz biezace jako... to teraz Zapisz jako nowy profil - nie obiecuje okna wyboru pliku, bo go nie otwiera. Wczytaj z pliku to Wczytaj z pendrive'a (.tprobox) - wczesniej dwa rozne przyciski nazywaly sie tak samo i mylily sie nawzajem. Zeby przeniesc cale zlecenie na inne urzadzenie: nacisnij Na pendrive, wskaz miejsce zapisu, a na drugim urzadzeniu kliknij Wczytaj z pendrive'a. Jeden plik niesie wszystko - wyglad, dzwieki, agende, jezyk i kod PIN - razem z obrazem tla i wlasnymi dzwiekami.",
-    "en": "Moving a profile to a USB stick is finally visible. Each profile now has two buttons: Load switches the device over to that job, and To USB stick saves the profile as a .tprobox file and takes it out of the box. Until now that second option was hidden behind three dots and practically impossible to find - even though it has worked since version 1.0.20. The three-dot menu keeps the things you do rarely: rename, overwrite with current settings and delete. Two confusing labels changed as well. Save current as... is now Save as new profile - it no longer promises a file dialog, because it does not open one. Load from file became Load from USB stick (.tprobox) - previously two different buttons were both called Load and were mistaken for each other. To move a whole job to another device: press To USB stick, choose where to save it, then on the other device press Load from USB stick. One file carries everything - the look, sounds, agenda, language and PIN - together with the background image and your own sounds."
+    "pl": "Dwa monitory HDMI: każde złącze może mieć własny tryb — np. licznik dla prelegenta na HDMI-1 i zegar studyjny Broadcast na HDMI-2 (Ustawienia → Drugi monitor). Monitor po ponownym podłączeniu sam wraca ze swoim obrazem. Stream Deck podaje dokładną przyczynę, gdy połączenie się nie udaje.",
+    "en": "Two HDMI monitors: each connector can have its own mode — e.g. presenter timer on HDMI-1 and Broadcast studio clock on HDMI-2 (Settings → Secondary Monitor). A reconnected monitor gets its picture back automatically. Stream Deck now reports the exact reason when connection fails."
   },
-  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v1.0.23/update-1.0.23.tar.gz",
-  "packageSize": 5401127,
-  "sha256": "554ed71a13628a07bb25809495b0b6a44d995ca54bfa11bf2e6901c352ccb0b9",
-  "signature": "3VnUj+6381y2vHANTiAMfZxOy0NmoqbiyrmlXBBBxgpYJ3SNRXREsEkrcxaZUFai117lL/n4Mh5aRHEinIfzAQ==",
+  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v1.0.25/update-1.0.25.tar.gz",
+  "packageSize": 5413126,
+  "sha256": "bbc964555d73378add0fdaaa4f23b0ebd4020c0c2683b8510356e88e71f28572",
+  "signature": "BQADRm2ik95Mdd4vOqCm51WNS3GB8ByLjjdYODTqGiWdHq0PGsqrVb6pCdM2MSnbG/rxriCknz0huNlcV00qCg==",
   "requiresNpmInstall": false,
   "minAppVersion": "1.0.0"
 }
