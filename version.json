@@ -1,14 +1,14 @@
 {
-  "version": "1.0.28",
+  "version": "1.0.29",
   "releaseDate": "2026-10-15",
   "changelog": {
-    "pl": "Poprawka Stream Decka: klawisz „Szablon — ustaw” w trybie Broadcast przełącza teraz wybrany szablon.",
-    "en": "Stream Deck fix: the Broadcast \"Template — set\" key now switches to the chosen template."
+    "pl": "Poprawka Broadcast: wskaźnik kołowy i pasek postępu (Template 2 i Studio) od razu pokazują aktualny postęp programu — zerują się po Resecie i przeliczają po zmianie czasu programu, także przy OFF AIR.",
+    "en": "Broadcast fix: the circular gauge and progress bar (Template 2 and Studio) always show the current show progress — they reset after Reset and recalculate when the show duration changes, also while OFF AIR."
   },
-  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v1.0.28/update-1.0.28.tar.gz",
-  "packageSize": 5418572,
-  "sha256": "3b5abe9b02a03886e3cc4944e301bd30aacf1402fc1740b368d3ed91ea7f242e",
-  "signature": "To0lTdbjnKumsdi1AnJJxyeF1nhB1UpD41P/bixMoc730muCh3V63t7N4lezAaAk58P9j1uC9NZ+ezgIlufDBg==",
+  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v1.0.29/update-1.0.29.tar.gz",
+  "packageSize": 5418931,
+  "sha256": "998bf5ecc85c47aeb239c8967dc4a6c21d247a68134b06727fd6da4204bbd9b2",
+  "signature": "V6faFAocOCD0QBS2fMuW2qffa6XtKtsQVJiGve7fGDyr1p0rHJ/XFm81D1nJeI793rccKQe4vKHojMzoWGx7Aw==",
   "requiresNpmInstall": false,
   "minAppVersion": "1.0.0"
 }
