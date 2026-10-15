@@ -1,14 +1,14 @@
 {
-  "version": "1.0.25",
+  "version": "1.0.26",
   "releaseDate": "2026-10-15",
   "changelog": {
-    "pl": "Dwa monitory HDMI: każde złącze może mieć własny tryb — np. licznik dla prelegenta na HDMI-1 i zegar studyjny Broadcast na HDMI-2 (Ustawienia → Drugi monitor). Monitor po ponownym podłączeniu sam wraca ze swoim obrazem. Stream Deck podaje dokładną przyczynę, gdy połączenie się nie udaje.",
-    "en": "Two HDMI monitors: each connector can have its own mode — e.g. presenter timer on HDMI-1 and Broadcast studio clock on HDMI-2 (Settings → Secondary Monitor). A reconnected monitor gets its picture back automatically. Stream Deck now reports the exact reason when connection fails."
+    "pl": "Poprawka dwóch monitorów HDMI: po zmianie trybu jednego monitora program zapamiętuje też drugi, więc po restarcie oba wracają z obrazem.",
+    "en": "Two HDMI monitors fix: changing the mode of one monitor now also remembers the other one, so both come back with a picture after restart."
   },
-  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v1.0.25/update-1.0.25.tar.gz",
-  "packageSize": 5413126,
-  "sha256": "bbc964555d73378add0fdaaa4f23b0ebd4020c0c2683b8510356e88e71f28572",
-  "signature": "BQADRm2ik95Mdd4vOqCm51WNS3GB8ByLjjdYODTqGiWdHq0PGsqrVb6pCdM2MSnbG/rxriCknz0huNlcV00qCg==",
+  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v1.0.26/update-1.0.26.tar.gz",
+  "packageSize": 5413950,
+  "sha256": "d6f2f1e7fc3b4bed4fe2f70a4e139bb19cb78f8ecff4b72d664ee3c020a14cd2",
+  "signature": "wAlU2xkVYbJZ+mU7NlSmdHAIxL407ie7I3G1XpAs5LZx8Z9Ew2eNOtgs3sKre7V00fzk0JBt+YrC2LUjWaPiDg==",
   "requiresNpmInstall": false,
   "minAppVersion": "1.0.0"
 }
