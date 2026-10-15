@@ -1,14 +1,14 @@
 {
-  "version": "1.0.27",
+  "version": "1.0.28",
   "releaseDate": "2026-10-15",
   "changelog": {
-    "pl": "Stream Deck dla trybu Broadcast: jeden klawisz ON AIR / OFF AIR (świeci na czerwono podczas nadawania), zmiana szablonu (następny albo wybrany) i czasu programu (ustaw, dodaj, odejmij minuty). Przycisk „+ Broadcast” w oknie Stream Deck tworzy gotową stronę z tymi akcjami.",
-    "en": "Stream Deck for Broadcast mode: one ON AIR / OFF AIR key (lights red while on air), template change (next or chosen) and show duration (set, add, subtract minutes). The \"+ Broadcast\" button in the Stream Deck window creates a ready page with these actions."
+    "pl": "Poprawka Stream Decka: klawisz „Szablon — ustaw” w trybie Broadcast przełącza teraz wybrany szablon.",
+    "en": "Stream Deck fix: the Broadcast \"Template — set\" key now switches to the chosen template."
   },
-  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v1.0.27/update-1.0.27.tar.gz",
-  "packageSize": 5418517,
-  "sha256": "e0ca0eca957e2412c6e0a43d300a0cc57a3cc9258c0968a83572c9ef3fdac1ca",
-  "signature": "z4LZyx8qU3oa3uASA4flvB9B8StKcDUMB49ARZlDkDF9LO19U1SoEv6Jx4TLFtb+7rAKMkf41i3/UIfc3XRKCA==",
+  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v1.0.28/update-1.0.28.tar.gz",
+  "packageSize": 5418572,
+  "sha256": "3b5abe9b02a03886e3cc4944e301bd30aacf1402fc1740b368d3ed91ea7f242e",
+  "signature": "To0lTdbjnKumsdi1AnJJxyeF1nhB1UpD41P/bixMoc730muCh3V63t7N4lezAaAk58P9j1uC9NZ+ezgIlufDBg==",
   "requiresNpmInstall": false,
   "minAppVersion": "1.0.0"
 }
