@@ -1,14 +1,14 @@
 {
-  "version": "1.0.34",
-  "releaseDate": "2026-10-15",
+  "version": "1.0.35",
+  "releaseDate": "2026-10-17",
   "changelog": {
-    "pl": "Ring LED: logo przesunięte wyżej - tuż pod kropką 12, z odstępem od czasu.",
-    "en": "Ring LED: logo moved up - right under the 12 dot, clear of the time."
+    "pl": "Orientacja ekranu dotykowego w Ustawieniach (0/90/180/270). Logo TimerPRO BOX przy włączaniu obraca się razem z programem, bez kolorowego kwadratu. Naprawa: program w pionie i zły dotyk, gdy ekran był widziany jako DSI-1.",
+    "en": "Touchscreen orientation in Settings (0/90/180/270). The TimerPRO BOX boot logo rotates with the program, no coloured square. Fix: program in portrait and wrong touch when the screen was seen as DSI-1."
   },
-  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v1.0.34/update-1.0.34.tar.gz",
-  "packageSize": 6294793,
-  "sha256": "ae159a8e6088b286fb379a29cd87d648e826180c75661e3d85d4a49d6eb28c5b",
-  "signature": "1lucvptfbpuoR7ZCaEmi43O9w2MwXmvwvET1PNEsOE72dey5UH24yY8YNL7a/1iMcTfJs35aNj5w18eoxs4RDg==",
+  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v1.0.35/update-1.0.35.tar.gz",
+  "packageSize": 6460725,
+  "sha256": "3a9b6591adcee676cc9e8fa1bdd2526a4c896280ceda12b47306248173a78d50",
+  "signature": "ugZ7Ys7tzK+A1pWlIw4SKi/Ue1trfHuyoqHvtg6fF9bPMKU9NmMaCGu5ed2+Ul73uXpiacvLX+pwWtUhM1lUCQ==",
   "requiresNpmInstall": false,
   "minAppVersion": "1.0.0"
 }
