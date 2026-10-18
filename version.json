@@ -1,14 +1,14 @@
 {
-  "version": "1.0.37",
+  "version": "2.0.0",
   "releaseDate": "2026-10-18",
   "changelog": {
-    "pl": "Podgląd na urządzeniu pokazuje dokładnie to samo co ekran prelegenta: format czasu, kolory faz i miganie. Nowe suwaki: siła i tempo migania po przekroczeniu zera oraz rozmiar trybu zegara w pikselach. Wszędzie ta sama lista 21 czcionek.",
-    "en": "The preview on the device shows exactly what the speaker screen shows: time format, phase colours and blinking. New sliders: overtime blink strength and speed, and clock mode size in pixels. The same list of 21 fonts everywhere."
+    "pl": "Sterowanie z Bitfocus Companion: komunikaty (z listy albo dowolny tekst), następny i poprzedni prelegent oraz Broadcast (ON AIR, próba, szablon, czas programu). Companion może też odczytać stan, np. podświetlić klawisz ON AIR. Zakładka API w oknie StreamDeck z gotowymi przykładami do skopiowania.",
+    "en": "Control from Bitfocus Companion: messages (from the list or any text), next and previous speaker and Broadcast (ON AIR, rehearsal, template, show duration). Companion can also read the state, e.g. to light up the ON AIR key. The API tab in the StreamDeck window has ready examples to copy."
   },
-  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v1.0.37/update-1.0.37.tar.gz",
-  "packageSize": 7293287,
-  "sha256": "31ca5e4b75e54ca0a34734c327f7e63eea6a36bd9a60fe32c0b2b976b9c022e0",
-  "signature": "00PycjGfnkff3VqofYxzNeTrs3rnkc6URk/s3i1tyiCGKOBUnuFCp3ILLmVMDo55ELC4tT+PBS3X0wo0pNTRCg==",
+  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v2.0.0/update-2.0.0.tar.gz",
+  "packageSize": 7303102,
+  "sha256": "2d012ad8ee2010d7c85208b18b44cb40887c5de480bdac67e8ab7b679d43d0a2",
+  "signature": "Fvk9OQf7EvdTthLE56gFZ9w6IZMz2h+t9cdQxLZgh6sG6pHyl6MlYFsGT0YMDXYB/qO9tvqYr9+IcbEMnWIpBA==",
   "requiresNpmInstall": false,
   "minAppVersion": "1.0.0"
 }
