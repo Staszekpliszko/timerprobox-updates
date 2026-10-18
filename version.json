@@ -1,14 +1,14 @@
 {
-  "version": "1.0.35",
-  "releaseDate": "2026-10-17",
+  "version": "1.0.36",
+  "releaseDate": "2026-10-18",
   "changelog": {
-    "pl": "Orientacja ekranu dotykowego w Ustawieniach (0/90/180/270). Logo TimerPRO BOX przy włączaniu obraca się razem z programem, bez kolorowego kwadratu. Naprawa: program w pionie i zły dotyk, gdy ekran był widziany jako DSI-1.",
-    "en": "Touchscreen orientation in Settings (0/90/180/270). The TimerPRO BOX boot logo rotates with the program, no coloured square. Fix: program in portrait and wrong touch when the screen was seen as DSI-1."
+    "pl": "Naprawiono włączanie trybu zegara, klawisz Shift na klawiaturze ekranowej i import CSV z polskimi literami. Komunikaty z gwiazdką są na ekranie głównym, a panel w przeglądarce pokazuje komunikaty z urządzenia. Polskie litery w całym programie, szablon Default i zegar na ekranie prelegenta mieszczą się na każdym monitorze.",
+    "en": "Fixed turning on clock mode, the Shift key on the on-screen keyboard and CSV import with accented letters. Starred messages are on the main screen and the browser panel shows the messages from the device. The Default template and the clock on the speaker screen fit on every monitor."
   },
-  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v1.0.35/update-1.0.35.tar.gz",
-  "packageSize": 6460725,
-  "sha256": "3a9b6591adcee676cc9e8fa1bdd2526a4c896280ceda12b47306248173a78d50",
-  "signature": "ugZ7Ys7tzK+A1pWlIw4SKi/Ue1trfHuyoqHvtg6fF9bPMKU9NmMaCGu5ed2+Ul73uXpiacvLX+pwWtUhM1lUCQ==",
+  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v1.0.36/update-1.0.36.tar.gz",
+  "packageSize": 6468559,
+  "sha256": "657bae632f74e7e8815e82ac2d8ca37aea81fbcdd3f806a9a71cc0bebd258ae0",
+  "signature": "8/bEenChR7jQlmsVFkHNujrIYeXh+N90dkpg4LC144PJA3QoEVLC2OkcwGNhM1PLIrfHfRD29ai3s2Irfp6sDw==",
   "requiresNpmInstall": false,
   "minAppVersion": "1.0.0"
 }
