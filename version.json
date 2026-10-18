@@ -1,14 +1,14 @@
 {
-  "version": "1.0.36",
+  "version": "1.0.37",
   "releaseDate": "2026-10-18",
   "changelog": {
-    "pl": "Naprawiono włączanie trybu zegara, klawisz Shift na klawiaturze ekranowej i import CSV z polskimi literami. Komunikaty z gwiazdką są na ekranie głównym, a panel w przeglądarce pokazuje komunikaty z urządzenia. Polskie litery w całym programie, szablon Default i zegar na ekranie prelegenta mieszczą się na każdym monitorze.",
-    "en": "Fixed turning on clock mode, the Shift key on the on-screen keyboard and CSV import with accented letters. Starred messages are on the main screen and the browser panel shows the messages from the device. The Default template and the clock on the speaker screen fit on every monitor."
+    "pl": "Podgląd na urządzeniu pokazuje dokładnie to samo co ekran prelegenta: format czasu, kolory faz i miganie. Nowe suwaki: siła i tempo migania po przekroczeniu zera oraz rozmiar trybu zegara w pikselach. Wszędzie ta sama lista 21 czcionek.",
+    "en": "The preview on the device shows exactly what the speaker screen shows: time format, phase colours and blinking. New sliders: overtime blink strength and speed, and clock mode size in pixels. The same list of 21 fonts everywhere."
   },
-  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v1.0.36/update-1.0.36.tar.gz",
-  "packageSize": 6468559,
-  "sha256": "657bae632f74e7e8815e82ac2d8ca37aea81fbcdd3f806a9a71cc0bebd258ae0",
-  "signature": "8/bEenChR7jQlmsVFkHNujrIYeXh+N90dkpg4LC144PJA3QoEVLC2OkcwGNhM1PLIrfHfRD29ai3s2Irfp6sDw==",
+  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v1.0.37/update-1.0.37.tar.gz",
+  "packageSize": 7293287,
+  "sha256": "31ca5e4b75e54ca0a34734c327f7e63eea6a36bd9a60fe32c0b2b976b9c022e0",
+  "signature": "00PycjGfnkff3VqofYxzNeTrs3rnkc6URk/s3i1tyiCGKOBUnuFCp3ILLmVMDo55ELC4tT+PBS3X0wo0pNTRCg==",
   "requiresNpmInstall": false,
   "minAppVersion": "1.0.0"
 }
