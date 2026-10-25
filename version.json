@@ -1,14 +1,14 @@
 {
-  "version": "2.0.2",
+  "version": "2.0.3",
   "releaseDate": "2026-10-25",
   "changelog": {
-    "pl": "Okno Stream Deck nazywa się teraz „Stream Deck i Companion”, a zakładka „WebSocket/HTTP API” — „Companion / API”. Od razu widać, gdzie ustawia się Bitfocus Companion.",
-    "en": "The Stream Deck window is now called \"Stream Deck & Companion\" and the \"WebSocket/HTTP API\" tab is \"Companion / API\" - it is clear where Bitfocus Companion is set up."
+    "pl": "Przerwa jednym dotknięciem: komunikat może uruchomić odliczanie (np. PRZERWA 15 MINUT ustawia 15:00 i startuje) — z ekranu, telefonu, Stream Decka i Companion. Nowa akcja Stream Decka „Przerwa: Zakończ”. Komunikat może znikać sam po 10 s – 5 min. Format czasu Auto (45:00 / 1:05:00). Szablon agendy Excel na pendrive w oknie Wykłady.",
+    "en": "One-tap break: a message can start a countdown (e.g. PRZERWA 15 MINUT sets 15:00 and starts) - from the screen, a phone, Stream Deck and Companion. New Stream Deck action \"Break: End\". A message can hide itself after 10 s - 5 min. Time format Auto (45:00 / 1:05:00). Excel agenda template to a USB stick in the Lectures window."
   },
-  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v2.0.2/update-2.0.2.tar.gz",
-  "packageSize": 7317858,
-  "sha256": "0d047f170e0f7f9dc3bdb27fedce98d8dbf5c37f222c79e1ac4c5723b34102c8",
-  "signature": "MaOMTsPNvk+gBGM4zKPWv2L/Kb5rJPEty2WNrcUqoo+Zj38npaz+QUfAYZUaP4TRerIhvkvf7Q2SYN7AKOnzCA==",
+  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v2.0.3/update-2.0.3.tar.gz",
+  "packageSize": 7355352,
+  "sha256": "b020970f469eda19593421de10e9924db812500bfa58e2d784fec983f15d440b",
+  "signature": "K8cQxxE9jp9iFAQSFqfu0TALR7WyuFGZcy7v5VBio49pmXjLDD+2Isyu93Umj8Y18Kck195+YCUkhH+i2HyZDw==",
   "requiresNpmInstall": false,
   "minAppVersion": "1.0.0"
 }
