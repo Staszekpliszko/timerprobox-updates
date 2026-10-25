@@ -1,14 +1,14 @@
 {
-  "version": "2.0.0",
-  "releaseDate": "2026-10-18",
+  "version": "2.0.1",
+  "releaseDate": "2026-10-25",
   "changelog": {
-    "pl": "Sterowanie z Bitfocus Companion: komunikaty (z listy albo dowolny tekst), następny i poprzedni prelegent oraz Broadcast (ON AIR, próba, szablon, czas programu). Companion może też odczytać stan, np. podświetlić klawisz ON AIR. Zakładka API w oknie StreamDeck z gotowymi przykładami do skopiowania.",
-    "en": "Control from Bitfocus Companion: messages (from the list or any text), next and previous speaker and Broadcast (ON AIR, rehearsal, template, show duration). Companion can also read the state, e.g. to light up the ON AIR key. The API tab in the StreamDeck window has ready examples to copy."
+    "pl": "Własne okno wyboru plików zamiast systemowego: w wyglądzie programu, we wszystkich językach, pod ekran dotykowy. Zakładki pendrive’ów, miniatury obrazów, odsłuch dźwięków, ostatnio używany folder, zakładka „Na urządzeniu”. Zapis profili i raportów z podpowiedzianą nazwą i pytaniem o zastąpienie. Poprawka: przycisk „Zmień” przy dźwiękach był po polsku w każdym języku.",
+    "en": "Own file window instead of the system one: in the program's look, in all languages, made for the touch screen. USB stick tabs, image thumbnails, sound preview, last used folder, \"On the device\" tab. Saving profiles and reports with a suggested name and a question before replacing a file. Fix: the \"Change\" button next to sounds was in Polish in every language."
   },
-  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v2.0.0/update-2.0.0.tar.gz",
-  "packageSize": 7303102,
-  "sha256": "2d012ad8ee2010d7c85208b18b44cb40887c5de480bdac67e8ab7b679d43d0a2",
-  "signature": "Fvk9OQf7EvdTthLE56gFZ9w6IZMz2h+t9cdQxLZgh6sG6pHyl6MlYFsGT0YMDXYB/qO9tvqYr9+IcbEMnWIpBA==",
+  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v2.0.1/update-2.0.1.tar.gz",
+  "packageSize": 7317859,
+  "sha256": "64d30ce017fa42f50121321619bd5b50c332544fefa323e3387533c5852fc9bc",
+  "signature": "asXcPhwrRKSL17oLXleB0bNSeQj//FB2TiEwlpboC/CiTIUDm4jJHfdxSUyN5QjHhyglwcux6Yr5k+BpzamzAg==",
   "requiresNpmInstall": false,
   "minAppVersion": "1.0.0"
 }
