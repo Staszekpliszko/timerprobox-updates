@@ -1,14 +1,14 @@
 {
-  "version": "2.0.1",
+  "version": "2.0.2",
   "releaseDate": "2026-10-25",
   "changelog": {
-    "pl": "Własne okno wyboru plików zamiast systemowego: w wyglądzie programu, we wszystkich językach, pod ekran dotykowy. Zakładki pendrive’ów, miniatury obrazów, odsłuch dźwięków, ostatnio używany folder, zakładka „Na urządzeniu”. Zapis profili i raportów z podpowiedzianą nazwą i pytaniem o zastąpienie. Poprawka: przycisk „Zmień” przy dźwiękach był po polsku w każdym języku.",
-    "en": "Own file window instead of the system one: in the program's look, in all languages, made for the touch screen. USB stick tabs, image thumbnails, sound preview, last used folder, \"On the device\" tab. Saving profiles and reports with a suggested name and a question before replacing a file. Fix: the \"Change\" button next to sounds was in Polish in every language."
+    "pl": "Okno Stream Deck nazywa się teraz „Stream Deck i Companion”, a zakładka „WebSocket/HTTP API” — „Companion / API”. Od razu widać, gdzie ustawia się Bitfocus Companion.",
+    "en": "The Stream Deck window is now called \"Stream Deck & Companion\" and the \"WebSocket/HTTP API\" tab is \"Companion / API\" - it is clear where Bitfocus Companion is set up."
   },
-  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v2.0.1/update-2.0.1.tar.gz",
-  "packageSize": 7317859,
-  "sha256": "64d30ce017fa42f50121321619bd5b50c332544fefa323e3387533c5852fc9bc",
-  "signature": "asXcPhwrRKSL17oLXleB0bNSeQj//FB2TiEwlpboC/CiTIUDm4jJHfdxSUyN5QjHhyglwcux6Yr5k+BpzamzAg==",
+  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v2.0.2/update-2.0.2.tar.gz",
+  "packageSize": 7317858,
+  "sha256": "0d047f170e0f7f9dc3bdb27fedce98d8dbf5c37f222c79e1ac4c5723b34102c8",
+  "signature": "MaOMTsPNvk+gBGM4zKPWv2L/Kb5rJPEty2WNrcUqoo+Zj38npaz+QUfAYZUaP4TRerIhvkvf7Q2SYN7AKOnzCA==",
   "requiresNpmInstall": false,
   "minAppVersion": "1.0.0"
 }
