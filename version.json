@@ -1,14 +1,14 @@
 {
-  "version": "2.0.4",
+  "version": "2.0.5",
   "releaseDate": "2026-10-25",
   "changelog": {
-    "pl": "Wyzwalacze „KIEDY → CO” (nowa zakładka obok Sygnałów): np. przy 80% pokaż komunikat, na 00:00 mignij albo dodaj minuty, po czasie następny prelegent. Start o godzinie: punkty programu mogą ruszać same o swojej godzinie (opcja w Programie). Gotowy plik przycisków dla Bitfocus Companion na pendrive. Poprawione znaki narodowe w języku niemieckim, hiszpańskim i francuskim, import agendy z kolumnami w tych językach, górny pasek mieści się w długich językach.",
-    "en": "\"WHEN → DO\" triggers (new tab next to Signals): e.g. show a message at 80%, flash or add minutes at 00:00, next speaker when over time. Start at time: programme items can start by themselves at their time (option in Programme). Ready button file for Bitfocus Companion to a USB stick. Corrected accents in German, Spanish and French, agenda import with columns in those languages, top bar fits in long languages."
+    "pl": "Pliki z telefonu: w panelu w przeglądarce (za kodem PIN) nowa sekcja „Pliki” — wgrywanie teł i dźwięków prosto z telefonu, ustawianie ich jako tło, dźwięk końcowy, odliczanie albo sygnał, usuwanie. Na urządzeniu: kosz przy plikach w zakładce „Na urządzeniu” okna wyboru plików i napis „Wgrano z telefonu”. Pliki sprawdzane po zawartości, limit 20/30 MB na plik i 300 MB na całą bibliotekę.",
+    "en": "Files from a phone: the browser panel (behind the PIN) has a new Files section — upload backgrounds and sounds straight from the phone, set them as background, end sound, countdown or signal, delete them. On the device: a delete button in the On the device tab of the file window and an Uploaded from phone notice. Files are checked by content, up to 20/30 MB per file and 300 MB for the whole library."
   },
-  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v2.0.4/update-2.0.4.tar.gz",
-  "packageSize": 7369304,
-  "sha256": "a515bbac70085341eddb09794ce1f7984e8307482095471a7c1de8097ff77066",
-  "signature": "G6UQyEpWeQA+15p6lv9VE57+vhFNbpNEj8A4MI6H6T+rN6OGkn+ndhl+nOeN/wVyv32lUNy+EY8hkhXftBkAAA==",
+  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v2.0.5/update-2.0.5.tar.gz",
+  "packageSize": 7381763,
+  "sha256": "9e3a1813134258182ab0aea0665f1405d2bbd4ee6057a43774de3c610117c195",
+  "signature": "zRc8CpknFxPPh7OK+GiMvcdIfkqUpFReemZ+c04Seoqz3yJ8/ij4TYrOX3+7MKsR5Dc5dwL/b7svL+VnhJmtBA==",
   "requiresNpmInstall": false,
   "minAppVersion": "1.0.0"
 }
