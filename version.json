@@ -1,14 +1,14 @@
 {
-  "version": "2.0.6",
+  "version": "2.0.7",
   "releaseDate": "2026-10-26",
   "changelog": {
-    "pl": "Agenda online: uczestnicy skanują kod QR i mają na telefonie agendę na żywo — kto teraz mówi, ile zostało, kto następny, prognoza godzin i opóźnienie (Ustawienia → Agenda online). Każdy BOX ma własny klucz z timerpro.eu; bez internetu działa link w sieci lokalnej. W programie wydarzenia nowe pola: Przerwa i Rola / firma prelegenta (także w szablonie Excel i imporcie).",
-    "en": "Online agenda: attendees scan a QR code and get the live agenda on their phones — who is speaking, time left, who is next, forecast times and the delay (Settings → Online agenda). Every BOX has its own key from timerpro.eu; without internet a local network link works. Event programme: new Break items and the speaker's Role / company (also in the Excel template and import)."
+    "pl": "Stream Deck jak w TimerPRO: przycisk „Ułóż w sekcje” (ZEGAR, KOMUNIKATY, AGENDA, BROADCAST), licznik pozostałego czasu na klawiszu (naciśnięcie = start/pauza), klawisze AGENDA (stan: online / lokalnie / brak sieci) i KOD QR. Kod QR agendy na ekranie sali — ze Stream Decka, z Companion (AGENDA_QR_TOGGLE) i z Ustawień. Agenda online: wybór adresu BOX-a dla sieci lokalnej i podgląd strony uczestnika.",
+    "en": "Stream Deck as in TimerPRO: “Arrange in sections” button (CLOCK, MESSAGES, AGENDA, BROADCAST), remaining-time countdown on a key (press = start/pause), AGENDA (online / local / no network) and QR CODE keys. Agenda QR code on the room screen — from the Stream Deck, from Companion (AGENDA_QR_TOGGLE) and from Settings. Online agenda: choice of the BOX address for the local network and an attendee page preview."
   },
-  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v2.0.6/update-2.0.6.tar.gz",
-  "packageSize": 7606603,
-  "sha256": "9f5f1af3f4f844ff7974ad9a4fcf62c1a7815019e94146cc68e5d74b2908ec4f",
-  "signature": "UzEAjKwhYxGv9BElE5JCCyHNWMBM7WIVhnPnIF6/4li2Er6Un/Ag4+mvMSTdY77BnZf4JGv8SyzEjUjfd5LLCQ==",
+  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v2.0.7/update-2.0.7.tar.gz",
+  "packageSize": 7617598,
+  "sha256": "a48bb928af652b479056417e143682ea4d718027c00175e6d345acb75b3581e3",
+  "signature": "T7fgpR4GbFj1rWTBrG6A9ePxOg69Z+zzLCy5q7HWYOMRN04e4GXdqo/aWi4QI08TMGEUWMteEHsjHEkybIutBw==",
   "requiresNpmInstall": false,
   "minAppVersion": "1.0.0"
 }
