@@ -1,14 +1,14 @@
 {
-  "version": "2.0.5",
-  "releaseDate": "2026-10-25",
+  "version": "2.0.6",
+  "releaseDate": "2026-10-26",
   "changelog": {
-    "pl": "Pliki z telefonu: w panelu w przeglądarce (za kodem PIN) nowa sekcja „Pliki” — wgrywanie teł i dźwięków prosto z telefonu, ustawianie ich jako tło, dźwięk końcowy, odliczanie albo sygnał, usuwanie. Na urządzeniu: kosz przy plikach w zakładce „Na urządzeniu” okna wyboru plików i napis „Wgrano z telefonu”. Pliki sprawdzane po zawartości, limit 20/30 MB na plik i 300 MB na całą bibliotekę.",
-    "en": "Files from a phone: the browser panel (behind the PIN) has a new Files section — upload backgrounds and sounds straight from the phone, set them as background, end sound, countdown or signal, delete them. On the device: a delete button in the On the device tab of the file window and an Uploaded from phone notice. Files are checked by content, up to 20/30 MB per file and 300 MB for the whole library."
+    "pl": "Agenda online: uczestnicy skanują kod QR i mają na telefonie agendę na żywo — kto teraz mówi, ile zostało, kto następny, prognoza godzin i opóźnienie (Ustawienia → Agenda online). Każdy BOX ma własny klucz z timerpro.eu; bez internetu działa link w sieci lokalnej. W programie wydarzenia nowe pola: Przerwa i Rola / firma prelegenta (także w szablonie Excel i imporcie).",
+    "en": "Online agenda: attendees scan a QR code and get the live agenda on their phones — who is speaking, time left, who is next, forecast times and the delay (Settings → Online agenda). Every BOX has its own key from timerpro.eu; without internet a local network link works. Event programme: new Break items and the speaker's Role / company (also in the Excel template and import)."
   },
-  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v2.0.5/update-2.0.5.tar.gz",
-  "packageSize": 7381763,
-  "sha256": "9e3a1813134258182ab0aea0665f1405d2bbd4ee6057a43774de3c610117c195",
-  "signature": "zRc8CpknFxPPh7OK+GiMvcdIfkqUpFReemZ+c04Seoqz3yJ8/ij4TYrOX3+7MKsR5Dc5dwL/b7svL+VnhJmtBA==",
+  "packageUrl": "https://github.com/Staszekpliszko/timerprobox-updates/releases/download/v2.0.6/update-2.0.6.tar.gz",
+  "packageSize": 7606603,
+  "sha256": "9f5f1af3f4f844ff7974ad9a4fcf62c1a7815019e94146cc68e5d74b2908ec4f",
+  "signature": "UzEAjKwhYxGv9BElE5JCCyHNWMBM7WIVhnPnIF6/4li2Er6Un/Ag4+mvMSTdY77BnZf4JGv8SyzEjUjfd5LLCQ==",
   "requiresNpmInstall": false,
   "minAppVersion": "1.0.0"
 }
